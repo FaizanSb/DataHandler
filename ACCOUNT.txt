@@ -1,0 +1,38 @@
+Account Info
+Account Holder :Abid
+Account Number: 101
+Total Balance:12300
+-------------------------------
+Account Info
+Account Holder :Bilal
+Account Number: 102
+Total Balance:14700
+-------------------------------
+Account Info
+Account Holder :Moon
+Total Balance:21000
+-------------------------------
+Account Info
+Account Holder :Zubair
+Account Number: 104
+Total Balance:46800
+-------------------------------
+Account Info
+Account Holder :Abid
+Account Number: 101
+Total Balance:12300
+-------------------------------
+Account Info
+Account Holder :Bilal
+Account Number: 102
+Total Balance:14700
+-------------------------------
+Account Info
+Account Holder :Moon
+Total Balance:21000
+-------------------------------
+Account Info
+Account Holder :Zubair
+Account Number: 104
+Total Balance:46800
+-------------------------------
